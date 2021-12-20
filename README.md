@@ -1,1 +1,1 @@
-Hej
+Repository for static projects
